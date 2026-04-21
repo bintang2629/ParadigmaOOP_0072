@@ -16,5 +16,6 @@ class Mahasiswa{
         Mahasiswa mhs1;
 
         mhs1.nim = 1111;
-      
+        mhs1.nama = "Joko susilo";
+
     }
